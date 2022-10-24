@@ -4,6 +4,6 @@
   "key.autoclicker-rinf.toggleacf": "Перемикач автоклікера",
   "text.autoclicker-rinf.clickdelay": "Затримка в тіках: %d",
   "label.autoclicker-rinf.settingmenul": "Меню налаштувань",
-  "text.autoclicker-rinf.targetentitymode": "Режим атаки мобів",
+  "text.autoclicker-rinf.targetentitymode": "Режим атаки мобів(не працює на серверах)",
   "text.autoclicker-rinf.attackcooldowncode": "Режим атаки з перезарядженням"
 }

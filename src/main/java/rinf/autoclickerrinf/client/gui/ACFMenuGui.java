@@ -31,7 +31,7 @@ public class ACFMenuGui extends LightweightGuiDescription {
         rootP.add(clickDelayT, 0, 25, 125, 10);
         rootP.add(clickDelayS, 0, 35, 125, 10);
         rootP.add(new WText(Text.literal("- - - - - - - - - - - - -")), 0, 45, 130, 10);
-        rootP.add(targetEntityModeT, 0, 55, 125, 10);
+        rootP.add(targetEntityModeT, 0, 55, 250, 10);
         rootP.add(targetEntityModeTB, 0, 65);
         rootP.add(new WText(Text.literal("- - - - - - - - - - - - -")), 0, 81, 130, 10);
         rootP.add(attackCooldownModeT, 0, 91, 200, 10);
